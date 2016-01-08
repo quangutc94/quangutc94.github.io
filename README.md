@@ -1,2 +1,0 @@
-#My app
-- My information
